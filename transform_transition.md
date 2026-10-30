@@ -1,4 +1,3 @@
-```markdown
 # Конспект: CSS-анимация с использованием `transition` и `transform`
 
 ## 1. Введение
